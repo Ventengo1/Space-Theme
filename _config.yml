@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: space-theme
+description: "A space theme for websites that I made for tonic"
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
